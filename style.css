@@ -1,0 +1,35 @@
+.dclife{
+    background-color: rgb(240, 218, 243);
+    border: 1px solid rebeccapurple;
+    border-radius: 50px;
+    margin: 1%; 
+    padding: 7px;
+    width: 30%;
+    height: 50%;
+    float: left;
+}
+img{ 
+    width: 75%;
+    height: 50%;
+    text-align: center;
+    display: block;
+}
+p{
+    
+    font-size: 30px;
+    background-color: bisque;
+    color: rgb(0, 16, 247);
+    text-align: center;
+    text-align: justify;
+}
+h2{
+    color: rebeccapurple;
+    font-size: 50px;
+    text-align: center;
+}
+#mairala{
+    color: red;
+}
+#bal{
+    color: rgb(255, 47, 64);
+}
